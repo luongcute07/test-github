@@ -43,7 +43,6 @@ public class Chuvi_Dtich_Lecture03 {
          keyboard.close();
     }
       public static void main(String[] args) {
-	      System.out.println("He so lo");
         Scanner keyboard = new Scanner(System.in);
           System.out.println("0: Tinh Dt va Chu vi Hinh tron");
           System.out.println("1: Tinh Dt va Chu vi Hinh Chu Nhat");
